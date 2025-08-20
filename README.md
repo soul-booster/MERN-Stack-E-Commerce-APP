@@ -1,7 +1,7 @@
 # MERN-Stack-E-Commerce-APP
 MERN Stack E-Commerce APP
 
-![Alt text](MERN%20Stack%20E-Commerce%20App.png?raw=true "Title")
+![Alt text](Full%20Stack%20E-Commerce%20MERN%20App.png?raw=true "Title")
 
 Backend .env file 
 
